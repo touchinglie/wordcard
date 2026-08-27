@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=wordsCard
+Comment=GTK4 单词测试工具
+Exec=wordsCard
+Icon=wordsCard
+Terminal=false
+Type=Application
+Categories=Education;

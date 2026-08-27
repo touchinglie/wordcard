@@ -1,7 +1,7 @@
 # wordcard
 A wordcard application based on GTK Lib
 
-## complie
+## compile
 
 ```bash
 git clone https://github.com/touchinglie/wordcard.git
@@ -23,7 +23,7 @@ sudo apt install -y build-essential cmake pkg-config \
     wget unzip file patchelf
 ```
 
-Complie as usual
+Compile as usual
 
 ```bash
 git clone https://github.com/touchinglie/wordcard.git
